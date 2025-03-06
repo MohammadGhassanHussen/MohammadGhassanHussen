@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohammadGhassanHussen
-- 👀 I’m interested in learning as much as I could 
+- 👀 I’m a Junior Sotfwate Engineering Student interested in learning as much as I could 
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on projects that could help me learn and better my experience
 - 📫 How to reach me: moe.ghassan.hussen@gmail.com

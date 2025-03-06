@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on projects that could help me learn and better my experience
 - 📫 How to reach me: moe.ghassan.hussen@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 MohammadGhassanHussen/MohammadGhassanHussen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
